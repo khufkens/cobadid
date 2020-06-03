@@ -15,7 +15,7 @@ padding = ["50px", "0", "50px", "0px"]
 [[item]]
 
 positionRight = false
-image = "img/docker_logo.png"
+image = "img/diagram.png"
 title = "A callback API"
 description = """
  
