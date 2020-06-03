@@ -1,0 +1,30 @@
+language: r
+dist: xenial
+latex: false
+
+branches:
+  only:
+  - master
+
+cache:
+  packages: yes
+directories:
+  - $HOME/bin
+
+script:
+  - Rscript -e 'blogdown::install_hugo(version = "0.69.2", force = TRUE)'
+  - Rscript -e 'blogdown::build_site()'
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  on:
+    branch: master
+  local_dir: public
+  fqdn: cobadid.org
+
+env:
+  global:
+    secure: "V+5PPBpKLRgzSbRbbVGSwX8m+EUPaRIEq+IYkuhynQCMQ9KWBVGOxBdXOjqEv5R3OsAnsMmMaFiQPb1/OE97US3fXIpmwSkvuip1W2u8bp7+hagWa2kU0th/rq7vgj+6RB8bIfg7tG3vfZ5TfFob4TqfvGIen8T28ofnIbeZrNC9E5dxMngH7Ylbl2fyTM1+4Y19XzYqCiI21POwrAl1jmYugZZ0WfQJbVuG15IRKGJaWiezwuXh7M93oRnVps/vz2O6NgGY0TyHQlUygM59IWGOFAXT3RTc8uuEsIY+xi4OCGe5gTFiiEDEc/OtTYVbj9x+Rblqd7RVFHc1pDWds3VvU+zpM5nah7daPQ96a8S/Xe/LR37+NP+bJxFyn88t4b5fseWDKQpwJw5XB/tygI5wwdGuNk7wt5I+mZDi/oTqtzN68yf4DWRGGLEUK4gYB7VbFxEx5xveYfMSIHm8ORwp+jdQtqjIg7HYWvMNN5YHzv6Om3kCYFfvynWb9EVfvR9TDkPuOPf1/dWGzv08osNvdraXG+xYDR/JS975qSIJRS1On8WM1BgFVxB2yhzjVDmVL5Q/rYqX57nnBzRQMI0I3zHi0J/bZNzeRp8I6kL/xfLIXsHv+XB9aP5P1XZc+tzqnXgUKFAifVeijedaQ6ZwMI211nH5WwXjT4bMNww="
+
