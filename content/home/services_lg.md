@@ -19,7 +19,7 @@ image = "img/docker_logo.png"
 title = "A callback API"
 description = """
  
- We aim to develop callback API which serves (meta-)data and formatted calls to existing server infrastructure.
+ We aim to develop callback API which serves (meta-)data and formatted calls to existing server infrastructure. The infrastructure therefore will provide a query of queries, downloaded by nested R packages (but also supporting python infrastructure). Our approach mimicks how the current ECMWF data API works, with downloads not centralized server but handled by user clients.
  
  """
 
