@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-pitch = "We link and integrate digital environmental heritage collections"
+pitch = "We link and integrate digital natural history heritage collections"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
