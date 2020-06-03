@@ -16,7 +16,7 @@ padding = ["50px", "0", "50px", "0px"]
 title = "Meta-Data Analysis"
 description = """
 
- We support your data analysis and synthesis, ranging from remote sensing data processing to machine learning.
+Meta-data something
 
 """
 
@@ -42,7 +42,7 @@ name = "Statistics"
 title = "Science Communication"
 description = """
 
-Our editorial services help you quickly draft a manuscript or grant framework. We help you communicate your research results efficiently.
+Science communication filler
 
 """
 icon = "file-alt"
