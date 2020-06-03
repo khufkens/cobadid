@@ -1,0 +1,6 @@
+Package: cobadid-blogdown
+Type: Website
+Title: COBADID
+Version: 0.0.1
+Imports: blogdown
+Remotes: rstudio/blogdown

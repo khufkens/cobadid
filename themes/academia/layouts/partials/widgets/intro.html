@@ -1,0 +1,16 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $bg := $page.Params.design.background }}
+
+<div class="row">
+            <div class="col-12 col-md-6">
+                {{ with $page.Params.pitch }}
+                    <h2>{{ . }}</h2>
+                {{ end }}
+            </div>
+            <div class="col-12 col-md-6">
+              {{ with $page.Content }}
+              <div>{{ . }}</div>
+              {{ end }}
+            </div>
+</div>
