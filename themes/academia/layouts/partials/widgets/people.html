@@ -16,11 +16,10 @@
   {{ end }}
 
   {{ range $page.Params.user_groups }}
-  <!--
+  
   <div class="col-md-12">
     <h2 class="mb-4">{{ . | markdownify }}</h2>
   </div>
-  -->
 
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
   {{ range $query }}

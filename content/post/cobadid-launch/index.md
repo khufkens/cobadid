@@ -10,7 +10,7 @@ tags:
 - data valorization
 - api
 
-categories: ["consulting", "business"]
+categories: ["data recovery", "proposal"]
 date: "2020-05-29"
 lastmod: ""
 featured: true

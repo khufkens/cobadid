@@ -19,7 +19,7 @@ image = "img/diagram.png"
 title = "A callback API"
 description = """
  
- We aim to develop callback API which serves (meta-)data and formatted calls to existing server infrastructure. The infrastructure therefore will provide a query of queries, downloaded by nested R packages (but also supporting python infrastructure). Our approach mimicks how the current ECMWF data API works, with downloads not centralized server but handled by user clients.
+We aim to develop callback API which serves (meta-)data and formatted calls to existing server infrastructure. The infrastructure therefore will provide a query of queries, downloaded by nested R packages (but also supporting python infrastructure).
  
  """
 
@@ -30,7 +30,7 @@ image = "img/docker_logo.png"
 title = "A modular approach"
 description = """
 
-We will rely on a R based approach using the **rplumber API** backend served through **containerized** sever infrastructure. Data downloads by users will be dependent on R or python packages (we will develop R packages but the calls will be python readable).
+We will rely on a R based approach using the **[restrserve](https://restrserve.org/) API** backend served through **containerized** sever infrastructure. Data downloads by users will be dependent on R or python packages (we will develop R packages but the calls will be python readable).
  
 """
 
