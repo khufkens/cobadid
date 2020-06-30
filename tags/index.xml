@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on COBADID</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on COBADID</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>BlueGreen Labs for COBADID &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>api</title>
+      <link>/tags/api/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data valorization</title>
+      <link>/tags/data-valorization/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/data-valorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dynamic database</title>
+      <link>/tags/dynamic-database/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/dynamic-database/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

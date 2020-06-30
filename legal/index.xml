@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legals on COBADID</title>
+    <link>/legal/</link>
+    <description>Recent content in Legals on COBADID</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>BlueGreen Labs for COBADID &amp;copy; {year}</copyright>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/legal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Credits</title>
+      <link>/legal/credits/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/legal/credits/</guid>
+      <description>&lt;p&gt;Hugo theme elements are a combination of various Themefisher themes, in particular:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/themefisher/Academia-hugo&#34;&gt;Academia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/themefisher/navigator-hugo&#34;&gt;Navigator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All images and website content are (c) COBADID (unless indicated otherwise). Themes adhere to their open source licenses (CC-BY 4.0).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
