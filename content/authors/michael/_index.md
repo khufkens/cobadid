@@ -40,6 +40,4 @@ user_groups:
 
 ---
 
-As an earth system scientist and ecologist I model ecosystem processes, such as vegetation growth or drought / disturbance resistance, using various -retrospective- proxy measurements in a model data fusion approach, including among others remote sensing, dendrochronology and recovered historical data records.
-
-Throughout my career I worked interdisciplinary borrowing heavily from fields, outside of ecology, such as image vision processing (computer science), remote sensing and engineering to assist in either field measurements and/or model driven analysis.
+As head of the Service “Contemporary Archives” at the National Archives of Belgium (NAB1) since 2011, Dr. Michaël Amara is well acquainted with the historical relevance and the conservation of archives of all types. One of his main tasks concerns the conservation and valorization of archives. More than 24 million images are available on the websites of the State Archives. He was involved in many projects of digitalization. He’s a specialist in First World War Studies and obtained his PhD from the University of Brussels [ULB] (Dep. of Contemporary History) (2007) with a thesis on Belgian refugees in France, Netherlands and UK during the First World War.

@@ -27,7 +27,7 @@ display_education: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:test@example.org"
+  link: "mailto:hans.beeckman@africamuseum.be"
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=8zlfk4AAAAAJ&hl=en&oi=ao
